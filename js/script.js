@@ -122,7 +122,7 @@ function buildAndShowHomeHTML(categories) {
       // Use the existing insertHtml function for that purpose. Look through this code for an example
       // of how to do that.
       // ....
-      insertHtml("#main_content", homeHtmlToInsertIntoMainPage);
+      insertHtml("#main_content", homeHtmlToInsertIntoMainPage,homeHtmlUrl);
     },
     false); // False here because we are getting just regular HTML from the server, so no need to process JSON.
 }
