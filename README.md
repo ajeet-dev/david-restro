@@ -1,2 +1,1 @@
-# Module5-Assignment
-Final Assignment on coursera for the course on web dev
+It is a restaurant website. Here you can see menus and location of the restaurant. You can also directly contact restaurant.
